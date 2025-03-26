@@ -1,0 +1,8 @@
+# Logs and temporary files
+*.log
+
+# OS-specific files
+Thumbs.db
+
+# Devvit specific (if there are any local configuration files you don’t want to commit)
+.qodo

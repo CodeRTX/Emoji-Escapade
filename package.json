@@ -1,0 +1,14 @@
+{
+  "name": "emoji-escapade",
+  "version": "0.0.5",
+  "description": "Emoji Escapade is an engaging and interactive game designed for the Reddit community. Players guess phrases, movie titles, or trending topics based on a sequence of emojis. The game is built to be quick, visually appealing, and fun for both individual players and groups.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  "devvit": "^0.11.11"   }
+}
